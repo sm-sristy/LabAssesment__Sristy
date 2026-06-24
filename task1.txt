@@ -1,1 +1,1 @@
-
+Git commit is used to describe the changes in local repository  and take a snapshot of it.
